@@ -1,0 +1,9 @@
+<html>
+<body>
+
+
+this is devops lab practical using this lab you improve your command
+
+
+</body>
+</html>
